@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102646728384",
+    "project_id": "agar-vision",
+    "storage_bucket": "agar-vision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102646728384:android:bb883123d43bb6d0478f25",
+        "android_client_info": {
+          "package_name": "il.ac.braude.simaan.agar_vision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYpLT-71MEb4u-mWJyst7ShNdvQOC4pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
